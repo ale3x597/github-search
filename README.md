@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Github Search App
+An application which will be able to search a user om github and display their profile information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Goals
+My goals here are simple 
+- Gain more practice using API's
+- Improve my understanding of the Context API
+- Learn how to use reducers
+
+## Technologies used so far
+[x] ReactJs
+[x] TailwindCSS
+[x] DaisyUI
 
 ## Available Scripts
 
